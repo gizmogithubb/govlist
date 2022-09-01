@@ -1,0 +1,39 @@
+{
+    "proposals": [ {
+            "number": 1,
+            "title": "Maximum lend / Borrow duration ",
+            "description": "Unlimited lend and borrow duration ",
+            "option1": "1 Years ",
+            "option2": "2 Years ",
+            "link": "/Upcoming/Proposal1",
+            "upcoming": true
+        },
+        {
+            "number": 2,
+            "title": "Onboard EVM assets ",
+            "description": "Onboard EVM assetsUnlimited lend and borrow duration ",
+            "option1": "Yes ",
+            "option2": "No",
+            "link": "/Upcoming/Proposal1",
+            "upcoming": true
+        },
+        {
+            "number": 3,
+            "title": "Minimum collateral ratio ",
+            "description": "Allow lquidity providers to participate in DAO ",
+            "option1": "200% ",
+            "option2": "300% ",
+            "link": "/Upcoming/Proposal1",
+            "upcoming": true
+        },
+        {
+            "number": 3,
+            "title": "Maximum number of collateral assets",
+            "description": "Not less than 20 collateral assets ",
+            "option1": "10",
+            "option2": "20",
+            "link": "/Upcoming/Proposal1",
+            "upcoming": true
+        }
+    ]
+}
